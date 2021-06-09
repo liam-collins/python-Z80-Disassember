@@ -56,8 +56,6 @@ def init() :
 
 # Useful Constants...
 
-mem = [ 0XD5, 0X1B, 0X7A, 0XB3, 0X00, 0X20, 0XFA, 0XD1, 0XC9 ]
-
 EXTENDED_CB = 0xcb
 EXTENDED_DD = 0xdd
 EXTENDED_ED = 0xed
